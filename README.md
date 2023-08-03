@@ -6,7 +6,7 @@ This project implements a movie recommendation system using content-based filter
 
 To get started, clone this project to your local machine using the following command:
 
-* git clone https://github.com/Rhythm1821/Recommender-System
+* git clone https://github.com/Rhythm1821/Recommender-System.git
 
 ## Dependencies
 
